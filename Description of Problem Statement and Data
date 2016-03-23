@@ -1,0 +1,30 @@
+Problem Statement
+
+Main problem Apple will start facing is iPhone sustainability in competitive smartphone market. Current Apple’s revenue is overly reliant on iPhone.  So future of apple depends heavily on the future of iPhones to drive its growth.  Generally trend observed in Apple’s or any other product line is product go through birth, growth and decline. This birth, growth and decline pattern happened with iPod and iPad. Will the same pattern be observed for Apple iPhone? Will Apple sustain its iPhone’s success in smartphone market for upcoming years? 
+
+Theme line to solve this problem is 
+•	Last four years since august 2011, what Cook had done and how he achieved success in iPhone market. 
+•	Consider data to know what apple have managed to reverse the decline.
+•	Use descriptive and predictive model to find solution to this problem.
+•	Real competition Samsung data compared to apple and for upcoming competitor with new business model Xiaomi – (to prove lack of competition?) 
+•	Upcoming iPhone such as iPhone 7, upgrades (the number of people who had an iPhone prior to the iPhone 6 and 6 Plus announcements, so this was in September of '14, that have not yet upgraded to a 6, 6 Plus, 6s, or 6s Plus is now 60 percent. So another way to think of that is, 40 percent have, 60 percent have not).
+•	Apple released the mid-range 4-inch iPhone SE yesterday could help Apple battle Xiaomi in Asia and Latin America.
+
+Data needed to do analysis
+To solve above problem by using Analytics, we need following data:
+
+•	Apple’s revenue by product category for 2012 to Q1 2016 to show that Apple’s revenue is overly reliant on iPhone. Apple’s financial statement published on January 26, 2016 indicates iPhone contributes 68% to total revenue for last quarter.
+•	IPhone unit sales quarterly from Q4 2008 till Q4 2015 (units shipped)- growth rate for iPhone with other competing companies such as Samsung, Motorola, Lenovo, Huawei, LG, Nokia, HTC, RIM
+•	Total worldwide Market share for Apple and other competing companies such as Samsung, Motorola, Lenovo, LG
+•	Worldwide sales in each country(America, Europe, China, Japan) for iPhone and its competitors from 2008 to 2015(Regional % total market share) 
+•	% share of global/worldwide smartphone operating profits from 2008 to 2015
+•	Average selling price for Apple and competitors from 2008 to 2015
+•	IPhone and competitors year over year revenue growth from 2008 to 2015
+•	IPhone sale growth in emerging markets such as India, Korea, Middle east, and Africa
+•	Worldwide smartphone sales to end users by OS from 2007 to 2015 (% total market share)
+•	Number of Available Apps for iOS, windows and Android- App store 
+•	Yearly/monthly switching rates from android to iOS smartphone and from iOS smartphone to android smartphones
+•	Supporting rate for all OS for smartphones - Earlier support for emerging technologies such as LTE, NFC, updates to OS for years 2011 to 2015 (faster, slower),OS upgrades in all supporting smartphones
+•	Apple’s ecosystem features such as healthkit, homekit, carplay, iCloud, Apple music and Apple mobile Pay services compared to google/Apple’s competitors such as Samsung- number of users
+•	Apple’s competitors financial information for Smartphone such as cost of sales, gross margin, Return on Sales, component cost, cellular network carriers.(supplier list)
+•	Customer satisfaction, Brand loyalty (survey data), Apple’s innovation, ecosystem
